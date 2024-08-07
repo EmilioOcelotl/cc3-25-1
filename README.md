@@ -2,6 +2,8 @@
 
 Programación orientada a objetos, manipulación de imágenes fijas y composición animadas.
 
+## Sesiones
+
 - [ ] | [Sesión 1 - 07.08.24](./sesiones/s01.md) | Inicio del curso y transformaciones |
 
 ## Recursos
