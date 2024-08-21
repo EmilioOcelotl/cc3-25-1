@@ -5,7 +5,8 @@ Programación orientada a objetos, manipulación de imágenes fijas y composici�
 ## Sesiones
 
 - [x] | [Sesión 1 - 07.08.24](./sesiones/s01.md) | Inicio del curso y transformaciones | [Código](https://gist.github.com/EmilioOcelotl/3d4c9570e8464b3bd9e48c34b1a53046) |
-- [ ] | [Sesión 2 - 14.08.24](./sesiones/s02.md) | Cargar imágenes, transformar y guardar |
+- [x] | [Sesión 2 - 14.08.24](./sesiones/s02.md) | Cargar imágenes, transformar y guardar | [Código](https://gist.github.com/EmilioOcelotl/71edaffd4a03d94a95bb01bb52fe290e)
+- [ ] | [Sesión 3 - 21.08.24](./sesiones/s03.md) | Obtener información de una imagen y puntillismo |  
 
 ## Recursos
 
