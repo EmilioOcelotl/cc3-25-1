@@ -8,7 +8,7 @@ Programación orientada a objetos, manipulación de imágenes fijas y composici�
 - [x] | [Sesión 2 - 14.08.24](./sesiones/s02.md) | Cargar imágenes, transformar y guardar | [Código](https://gist.github.com/EmilioOcelotl/71edaffd4a03d94a95bb01bb52fe290e)
 - [x] | [Sesión 3 - 21.08.24](./sesiones/s03.md) | Obtener información de una imagen y puntillismo | [Código](https://gist.github.com/EmilioOcelotl/714552aebcc1e0a9845045bac7076f9b)
 - [x] | [Sesión 4 - 28.08.24](./sesiones/s04.md) | Lectura de Pixeles | [Código](https://gist.github.com/EmilioOcelotl/b9cb8a0299039872af024493a77d77cd)
-- [ ] | [Sesión 5 - 04.09.24](./sesiones/s05.md) | Hydra y delimitación de zonas 
+- [x] | [Sesión 5 - 04.09.24](./sesiones/s05.md) | Noise, Hydra y delimitación de zonas | [Hydra](https://hydra.ojack.xyz/) | [Código Processing](https://gist.github.com/EmilioOcelotl/1af0cfa818a877f878e28137e88facc7)
 
 ## Recursos
 
