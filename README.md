@@ -15,9 +15,9 @@ Programación orientada a objetos, manipulación de imágenes fijas y composici�
     - [Código Processing](./sesiones/s07/modProcessing.pde) para modificar una imagen
     - [Código Hydra](./sesiones/s07/img.js) para cargar una imagen
 - [ ] [Sesión 8 - 25.09.24](./sesiones/s08/s08.md) Cámaras
-    - [Código de Processing]()
-    - [Código de Hydra]()
-    - [Enlace P5]()
+    - [Código de Processing](./sesiones/s08/processing-capture.pde)
+    - [Código de Hydra](./sesiones/s08/hydra-capture.js)
+    - [Enlace P5](https://editor.p5js.org/emilioocelotl/sketches/gltqKmksH)
 
 
 ## Recursos
