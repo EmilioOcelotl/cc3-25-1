@@ -23,7 +23,8 @@ Programación orientada a objetos, manipulación de imágenes fijas y composici�
 - [x] [Sesión 9 - 16.10.24](./sesiones/s09/s09.md) Slitscan 
     - [Código Processing](./sesiones/s09/slitscan.pde)
     - [Ejercicio Hydra](./sesiones/s07/img.js)
-- [ ] [Sesión 10 - 30.10.24](./sesiones/s10/s10.md) Caso, activación slitscan y proyecto final. 
+- [x] [Sesión 10 - 30.10.24](./sesiones/s10/s10.md) Caso, activación slitscan y proyecto final. 
+    - [Código secuenciador](./sesiones/s10/codigoSecuenciador.pde)
 
 
 ## Recursos
