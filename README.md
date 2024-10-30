@@ -8,16 +8,22 @@ Programación orientada a objetos, manipulación de imágenes fijas y composici�
 - [x] [Sesión 2 - 14.08.24](./sesiones/s02.md) Cargar imágenes, transformar y guardar [Código](https://gist.github.com/EmilioOcelotl/71edaffd4a03d94a95bb01bb52fe290e)
 - [x] [Sesión 3 - 21.08.24](./sesiones/s03.md) Obtener información de una imagen y puntillismo [Código](https://gist.github.com/EmilioOcelotl/714552aebcc1e0a9845045bac7076f9b)
 - [x] [Sesión 4 - 28.08.24](./sesiones/s04.md) Lectura de Pixeles [Código](https://gist.github.com/EmilioOcelotl/b9cb8a0299039872af024493a77d77cd)
-- [x] [Sesión 5 - 04.09.24](./sesiones/s05.md) Noise, Hydra y delimitación de zonas [Hydra](https://hydra.ojack.xyz/) [Código Processing](https://gist.github.com/EmilioOcelotl/1af0cfa818a877f878e28137e88facc7)
+- [x] [Sesión 5 - 04.09.24](./sesiones/s05.md) Noise, Hydra y delimitación de zonas 
+    - [Hydra](https://hydra.ojack.xyz/) 
+    - [Código Processing](https://gist.github.com/EmilioOcelotl/1af0cfa818a877f878e28137e88facc7)
 - [x] [Sesión 6 - 11.09.24](./sesiones/s06/s06.md) Gradiente, osc y modificación de imágenes. 
     - [Código](https://gist.github.com/EmilioOcelotl/2757d7505ac9a8e348be1f89c791f670) que realiza oscilaciones con pixeles en Processing.
 - [x] [Sesión 7 - 18.09.24](./sesiones/s07/s07.md) Ejercicio con distintos modificadores en Processing y prácticas con Hydra. 
     - [Código Processing](./sesiones/s07/modProcessing.pde) para modificar una imagen
     - [Código Hydra](./sesiones/s07/img.js) para cargar una imagen
-- [ ] [Sesión 8 - 25.09.24](./sesiones/s08/s08.md) Cámaras
-    - [Código de Processing]()
-    - [Código de Hydra]()
-    - [Enlace P5]()
+- [x] [Sesión 8 - 25.09.24](./sesiones/s08/s08.md) Cámaras
+    - [Código de Processing](./sesiones/s08/processing-capture.pde)
+    - [Código de Hydra](./sesiones/s08/hydra-capture.js)
+    - [Enlace P5](https://editor.p5js.org/emilioocelotl/sketches/gltqKmksH)
+- [x] [Sesión 9 - 16.10.24](./sesiones/s09/s09.md) Slitscan 
+    - [Código Processing](./sesiones/s09/slitscan.pde)
+    - [Ejercicio Hydra]()
+- [ ] [Sesión 10 - 30.10.24](./sesiones/s10/s10.md) Caso, activación slitscan y proyecto final. 
 
 
 ## Recursos
