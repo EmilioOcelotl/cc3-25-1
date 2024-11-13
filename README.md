@@ -25,8 +25,14 @@ Programación orientada a objetos, manipulación de imágenes fijas y composici�
     - [Ejercicio Hydra](./sesiones/s07/img.js)
 - [x] [Sesión 10 - 30.10.24](./sesiones/s10/s10.md) Caso, activación slitscan y proyecto final. 
     - [Código secuenciador](./sesiones/s10/codigoSecuenciador.pde)
-
-
+- [x] [Sesión 11 - 06.11.24](./sesiones/s11/s11.md) Sonido y proyecto final  
+    - [Forma de onda y muestra](https://gist.github.com/EmilioOcelotl/faea8897c34bfe4ced2671e4d5c22df1)
+    - [fft y muestra](https://gist.github.com/EmilioOcelotl/db146f8154c2db7b60c11cd41dd69007)
+- [x] [Sesión 12 - 13.11.23](./sesiones/s12/s12.md) Ideas proyectos finales 
+    - [hydra y fft](https://gist.github.com/EmilioOcelotl/d26e93d54b6aca04d9c98a07635102ce)
+    - [amplitud en processing para slitscan](https://gist.github.com/EmilioOcelotl/dc9a5c5c4c71c1844ebb46a06aa202a0)
+    - [síntesis sustractiva en Processing](https://gist.github.com/EmilioOcelotl/a436953173133415df2726cbe5de22de)
+ 
 ## Recursos
 
 - Página de [Olivia Jack](https://ojack.xyz/)
